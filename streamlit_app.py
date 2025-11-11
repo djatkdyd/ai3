@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://dimg.donga.com/wps/NEWS/IMAGE/2021/05/08/106823483.2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=0Q3aJtnRVbQ"]
      },
+
+         labels[1]: {
+       "texts": ["메시는 아르헨티나 최고의 축구선수입니다."],
+       "images": ["https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2023%2F04%2Ffc-barcelona-president-laporta-confirms-lionel-messi-return-01.jpeg?q=75&w=800&cbr=1&fit=max"],
+       "videos": ["https://www.youtube.com/watch?v=VIXbcjLelyU"]
+     },
 }
 
 # ======================
