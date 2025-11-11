@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["네이마르는 브라질 최고의 축구선수입니다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://dimg.donga.com/wps/NEWS/IMAGE/2021/05/08/106823483.2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=0Q3aJtnRVbQ"]
      },
 }
