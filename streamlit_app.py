@@ -80,6 +80,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2023%2F04%2Ffc-barcelona-president-laporta-confirms-lionel-messi-return-01.jpeg?q=75&w=800&cbr=1&fit=max"],
        "videos": ["https://www.youtube.com/watch?v=VIXbcjLelyU"]
      },
+
+         labels[2]: {
+       "texts": ["호날두는 포르투갈 최고의 축구선수입니다."],
+       "images": ["https://cdn.footballist.co.kr/news/photo/202511/203788_160332_292.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=uz6x6aH-zAE"]
+     },
 }
 
 # ======================
